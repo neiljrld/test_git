@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("Hello World!");
-    printf("Ih ang bangis?");
+    printf("Hello World!\n");
+    printf("Ih ang bangis?\n");
+    printf ("Bangisaaa? kabangiss\n");
 }
